@@ -1,0 +1,52 @@
+body{
+ background-image: url('math\ bg.jpg');
+}
+#div_1{
+    background-color: white;
+    width:600px;
+ }
+ .div1{
+     width:400px;
+     margin-left:100px;
+     margin-right:100px;
+     margin-top:30px;
+ }
+ .div2{
+    width:400px;
+    margin-top:50px;
+    margin-left:100px;
+    margin-right:100px;   
+}
+#btn-login{
+    margin-top:100px;
+    margin-bottom:100px;
+    margin-left:80px;
+    margin-right:100px;
+    
+}
+#body_q{
+background-image:url('math_bg.jpg');
+background-position-x:400px;
+ 
+width:400px;
+}
+.container{
+
+   background-color: white;
+    width:800px;
+    margin-left: 250px;
+    margin-right: 200px;
+}
+.btn {background-color: #008CBA;}
+h4{
+    font-weight:700px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
